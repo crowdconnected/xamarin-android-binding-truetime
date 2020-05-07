@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{EC8EA2B5-5D91-43ED-B71D-5E1C2F2F668B}|Default">
+  <MonoDevelop.Ide.ItemProperties.TrueTime.Binding PreferredExecutionTarget="Android.Pixel_XL_API_29" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrueTime.Binding" expanded="True">
+            <Node name="TrueTime.Binding" expanded="True">
+              <Node name="Jars" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
